@@ -17,7 +17,7 @@ This is a **Streamlit web app** that allows users to balance a matrix using the 
 
 ## 🚀 Try it live
 
-👉 [Click here to launch the app](https://rasmba.streamlit.app)
+👉 [Click here to launch the app](https://matrixbalancer.streamlit.app)
 
 ---
 
